@@ -1,0 +1,13 @@
+Fix one
+Added Semaphore
+The location of semaphore defines : 50
+The location of semaphore use : 59
+result : fix fail
+Fix two
+Lock Name : t
+Lock Name : t
+aim at : ReadWriteNode[322,critical.Critical@15b,turn,WRITE,Thread-1,critical/Critical.java:48]Lock start and stop position : 48->51
+Lock Name : t
+aim at : ReadWriteNode[329,critical.Critical@15b,turn,WRITE,Thread-2,critical/Critical.java:59]Lock start and stop position : 59->59
+result : fix success
+time for fixing:6081

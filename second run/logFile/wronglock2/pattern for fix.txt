@@ -1,0 +1,8 @@
+Pattern {
+	PatternType[PatternTypeNode[x,1,READ] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[398,wronglock2.Main,s,READ,Thread-2,wronglock2/Main.java:29]
+	ReadWriteNode[405,wronglock2.Main,s,WRITE,Thread-1,wronglock2/Main.java:29]
+}
+success count: 12
+fail count: 173

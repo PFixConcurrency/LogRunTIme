@@ -1,0 +1,43 @@
+Fix two
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[421,even.EvenGenerator@15e,currentValue,WRITE,Thread-1,even/EvenGenerator.java:10]Lock start and stop position : 9->10
+Lock Name : this
+aim at : ReadWriteNode[433,even.EvenGenerator@15e,currentValue,READ,Thread-4,even/EvenGenerator.java:9]Lock start and stop position : 9->9
+result : fix fail
+Fix two
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[421,even.EvenGenerator@15e,currentValue,WRITE,Thread-1,even/EvenGenerator.java:10]Lock start and stop position : 9->10
+Lock Name : this
+aim at : ReadWriteNode[439,even.EvenGenerator@15e,currentValue,READ,Thread-3,even/EvenGenerator.java:10]Lock start and stop position : 10->10
+result : fix fail
+Fix two
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[428,even.EvenGenerator@15e,currentValue,WRITE,Thread-4,even/EvenGenerator.java:10]Lock start and stop position : 9->10
+Lock Name : this
+aim at : ReadWriteNode[434,even.EvenGenerator@15e,currentValue,WRITE,Thread-3,even/EvenGenerator.java:10]Lock start and stop position : 10->10
+result : fix fail
+Fix two
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[399,even.EvenGenerator@15e,currentValue,READ,Thread-2,even/EvenGenerator.java:11]Lock start and stop position : 9->11
+Lock Name : this
+aim at : ReadWriteNode[415,even.EvenGenerator@15e,currentValue,WRITE,Thread-3,even/EvenGenerator.java:10]Lock start and stop position : 10->10
+result : fix fail
+Fix two
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[424,even.EvenGenerator@15e,currentValue,WRITE,Thread-2,even/EvenGenerator.java:10]Lock start and stop position : 9->10
+Lock Name : this
+aim at : ReadWriteNode[427,even.EvenGenerator@15e,currentValue,WRITE,Thread-3,even/EvenGenerator.java:10]Lock start and stop position : 10->10
+result : fix fail
+Fix two
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[401,even.EvenGenerator@15e,currentValue,WRITE,Thread-2,even/EvenGenerator.java:9]Lock start and stop position : 9->10
+Lock Name : this
+aim at : ReadWriteNode[409,even.EvenGenerator@15e,currentValue,READ,Thread-1,even/EvenGenerator.java:11]Lock start and stop position : 11->11
+result : fix success
+time for fixing:98635

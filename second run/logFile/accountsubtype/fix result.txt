@@ -1,0 +1,13 @@
+Fix one
+Added Semaphore
+The location of semaphore defines : 11
+The location of semaphore use : 23
+result : fix fail
+Fix two
+Fix one
+Add synchronization
+Lock Name : ac
+Lock Name : ac
+Locked position : 9->12
+result : fix success
+time for fixing:22684

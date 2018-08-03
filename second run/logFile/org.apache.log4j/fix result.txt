@@ -1,0 +1,8 @@
+Fix two
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[3122,org.apache.log4j.spi.ThrowableInformation@375,rep,READ,Thread-2,org/apache/log4j/spi/ThrowableInformation.java:71]Lock start and stop position : 71->92
+Lock Name : this
+aim at : ReadWriteNode[3125,org.apache.log4j.spi.ThrowableInformation@375,rep,WRITE,Thread-4,org/apache/log4j/spi/ThrowableInformation.java:90]Lock start and stop position : 90->90
+result : fix success
+time for fixing:19729

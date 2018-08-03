@@ -1,0 +1,117 @@
+[Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[785,pingpong.BugThread@1cc,bg,WRITE,main,pingpong/BugThread.java:22]
+	ReadWriteNode[804,pingpong.BugThread@1cc,bg,READ,Thread-2,pingpong/BugThread.java:38]
+}
+success count: 236
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[787,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-1,pingpong/BuggedProgram.java:89]
+	ReadWriteNode[942,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-3,pingpong/BuggedProgram.java:85]
+}
+success count: 2
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[602,pingpong.PP@196,i,WRITE,main,pingpong/PP.java:24]
+	ReadWriteNode[852,pingpong.PP@196,i,READ,Thread-2,pingpong/PP.java:33]
+}
+success count: 178
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[603,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,main,pingpong/BuggedProgram.java:39]
+	ReadWriteNode[749,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-1,pingpong/BuggedProgram.java:83]
+}
+success count: 194
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[603,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,main,pingpong/BuggedProgram.java:39]
+	ReadWriteNode[755,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-1,pingpong/BuggedProgram.java:85]
+}
+success count: 134
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[787,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-1,pingpong/BuggedProgram.java:89]
+	ReadWriteNode[946,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-2,pingpong/BuggedProgram.java:86]
+}
+success count: 1
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,READ] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[942,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-3,pingpong/BuggedProgram.java:85]
+	ReadWriteNode[946,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-2,pingpong/BuggedProgram.java:86]
+}
+success count: 40
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[787,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-1,pingpong/BuggedProgram.java:89]
+	ReadWriteNode[807,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-2,pingpong/BuggedProgram.java:83]
+}
+success count: 2
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[603,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,main,pingpong/BuggedProgram.java:39]
+	ReadWriteNode[758,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-1,pingpong/BuggedProgram.java:86]
+}
+success count: 100
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,READ] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[905,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-3,pingpong/BuggedProgram.java:83]
+	ReadWriteNode[946,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-2,pingpong/BuggedProgram.java:86]
+}
+success count: 101
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[812,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-2,pingpong/BuggedProgram.java:86]
+	ReadWriteNode[814,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-1,pingpong/BuggedProgram.java:86]
+}
+success count: 24
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,WRITE] PatternTypeNode[x,1,WRITE] ]
+	matched: true
+	ReadWriteNode[794,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-1,pingpong/BuggedProgram.java:83]
+	ReadWriteNode[812,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-2,pingpong/BuggedProgram.java:86]
+	ReadWriteNode[814,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-1,pingpong/BuggedProgram.java:86]
+}
+success count: 23
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,WRITE] PatternTypeNode[x,1,WRITE] ]
+	matched: true
+	ReadWriteNode[805,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-1,pingpong/BuggedProgram.java:85]
+	ReadWriteNode[812,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-2,pingpong/BuggedProgram.java:86]
+	ReadWriteNode[814,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-1,pingpong/BuggedProgram.java:86]
+}
+success count: 14
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[852,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-1,pingpong/BuggedProgram.java:86]
+	ReadWriteNode[854,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-3,pingpong/BuggedProgram.java:83]
+}
+success count: 7
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[852,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-1,pingpong/BuggedProgram.java:86]
+	ReadWriteNode[863,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-3,pingpong/BuggedProgram.java:85]
+}
+success count: 15
+fail count: 0, Pattern {
+	PatternType[PatternTypeNode[x,1,READ] PatternTypeNode[x,2,WRITE] PatternTypeNode[x,1,READ] ]
+	matched: true
+	ReadWriteNode[823,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-2,pingpong/BuggedProgram.java:83]
+	ReadWriteNode[830,pingpong.BuggedProgram@192,pingPongPlayer,WRITE,Thread-1,pingpong/BuggedProgram.java:86]
+	ReadWriteNode[841,pingpong.BuggedProgram@192,pingPongPlayer,READ,Thread-2,pingpong/BuggedProgram.java:85]
+}
+success count: 12
+fail count: 0]
+time for getting pattern list : 31161

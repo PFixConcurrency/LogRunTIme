@@ -1,0 +1,300 @@
+Fix two
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[1061,alarmclock.MyLinkedList@162,size,WRITE,Thread-1,alarmclock/AlarmClock.java:295]Lock start and stop position : 294->295
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[1128,alarmclock.MyLinkedList@162,size,WRITE,Thread-9,alarmclock/AlarmClock.java:274]Lock start and stop position : 274->274
+result : fix fail
+Fix two
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix two
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[1061,alarmclock.MyLinkedList@162,size,WRITE,Thread-1,alarmclock/AlarmClock.java:295]Lock start and stop position : 290->295
+Fix two
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[1061,alarmclock.MyLinkedList@162,size,WRITE,Thread-1,alarmclock/AlarmClock.java:295]Lock start and stop position : 295->295
+Fix three
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Locked position : 138->331
+Fix one
+Add synchronization
+Fix three
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Locked position : 138->319
+result : fix fail
+Fix one
+Add synchronization
+Fix three
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Locked position : 138->299
+result : fix fail
+Fix three
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Locked position : 138->299
+result : fix fail
+Fix three
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Locked position : 138->299
+result : fix fail
+Fix one
+Added Semaphore
+The location of semaphore defines : 295
+The location of semaphore use : 308
+result : fix fail
+Fix one
+Add synchronization
+Lock Name : this
+Lock Name : this
+Locked position205
+result : fix fail
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Lock Name : this
+Lock Name : this
+Locked position321
+result : fix fail
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+time for fixing:101213

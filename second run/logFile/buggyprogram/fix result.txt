@@ -1,0 +1,27 @@
+Fix two
+aim at : ReadWriteNode[486,buggyprogram.BuggyProgram@16e,randomNumber,READ,Thread-1,buggyprogram/BuggyProgram.java:313]Lock start and stop position : 312->320
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[489,buggyprogram.BuggyProgram@16e,randomNumber,WRITE,Thread-2,buggyprogram/BuggyProgram.java:338]Lock start and stop position : 338->338
+result : fix fail
+Fix two
+aim at : ReadWriteNode[486,buggyprogram.BuggyProgram@16e,randomNumber,READ,Thread-1,buggyprogram/BuggyProgram.java:313]Lock start and stop position : 312->321
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[489,buggyprogram.BuggyProgram@16e,randomNumber,WRITE,Thread-2,buggyprogram/BuggyProgram.java:338]Lock start and stop position : 338->338
+result : fix success
+time for fixing:35568

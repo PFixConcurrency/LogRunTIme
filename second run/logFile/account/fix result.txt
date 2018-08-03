@@ -1,0 +1,297 @@
+Fix three
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Locked position : 32->36
+result : fix fail
+Fix three
+Fix three
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Locked position : 16->36
+result : fix fail
+Fix three
+Locked position : 32->36
+result : fix fail
+Fix one
+Add synchronization
+Fix two
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[1647,account.Account@1b7,amount,READ,Thread-4,account/Account.java:28]Lock start and stop position : 28->28
+result : fix fail
+Fix two
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[2081,account.Account@1b7,amount,WRITE,Thread-4,account/Account.java:28]Lock start and stop position : 28->28
+result : fix fail
+Fix one
+Add synchronization
+result : fix fail
+Fix one
+Add synchronization
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Locked position : 28->33
+result : fix fail
+Fix two
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+aim at : ReadWriteNode[1695,account.Account@1b7,amount,READ,Thread-4,account/Account.java:28]Lock start and stop position : 28->28
+result : fix fail
+Fix three
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : ac
+Lock Name : ac
+Locked position : 28->36
+result : fix fail
+Fix two
+Lock Name : ac
+Lock Name : ac
+aim at : ReadWriteNode[1858,account.Account@1b7,amount,WRITE,Thread-4,account/Account.java:28]Lock start and stop position : 28->28
+result : fix fail
+Fix one
+Add synchronization
+Fix three
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Locked position : 32->36
+result : fix fail
+Fix one
+Added Semaphore
+The location of semaphore defines : 24
+The location of semaphore use : 28
+result : fix fail
+Fix one
+Add synchronization
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+result : fix fail
+Fix three
+Lock Name : ac
+Lock Name : ac
+aim at : ReadWriteNode[1335,account.Account@1bf,amount,WRITE,Thread-4,account/Account.java:28]Lock start and stop position : 28->28
+Fix one
+Add synchronization
+Lock Name : ac
+Lock Name : ac
+result : fix fail
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Lock Name : ac
+Lock Name : ac
+result : fix fail
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix three
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Lock Name : ac
+Locked position : 32->36
+result : fix fail
+Fix one
+Add synchronization
+Lock Name : ac
+Lock Name : ac
+result : fix fail
+Fix one
+Add synchronization
+Lock Name : ac
+Lock Name : ac
+result : fix fail
+Fix one
+Added Semaphore
+The location of semaphore defines : 16
+The location of semaphore use : 32
+result : fix fail
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+Lock Name : this
+result : fix fail
+Fix one
+Add synchronization
+result : fix fail
+Fix two
+Fix two
+Fix two
+Fix two
+Fix one
+Add synchronization
+Lock Name : this
+Lock Name : this
+result : fix fail
+Fix one
+Add synchronization
+Lock Name : this
+Lock Name : this
+result : fix fail
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Lock Name : this
+Lock Name : this
+Locked position28
+result : fix fail
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix three
+Fix three
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix two
+Fix two
+Fix three
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix two
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix three
+Fix two
+Fix three
+time for fixing:213220

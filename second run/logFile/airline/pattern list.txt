@@ -1,0 +1,111 @@
+[Pattern {
+	PatternType[PatternTypeNode[x,1,READ] PatternTypeNode[y,2,WRITE] PatternTypeNode[x,2,WRITE] PatternTypeNode[y,1,READ] ]
+	matched: true
+	ReadWriteNode[1147,airline.Bug@15e,StopSales,READ,main,airline/Bug.java:38]
+	ReadWriteNode[1152,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-19,airline/Bug.java:60]
+	ReadWriteNode[1164,airline.Bug@15e,StopSales,WRITE,Thread-19,airline/Bug.java:62]
+	ReadWriteNode[1166,airline.Bug,Num_Of_Seats_Sold,READ,main,airline/Bug.java:51]
+}
+success count: 0
+fail count: 1, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[249,airline.Bug@15e,StopSales,WRITE,main,airline/Bug.java:16]
+	ReadWriteNode[1171,airline.Bug@15e,StopSales,WRITE,Thread-20,airline/Bug.java:62]
+}
+success count: 5
+fail count: 2, Pattern {
+	PatternType[PatternTypeNode[x,1,READ] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[1155,airline.Bug@15e,StopSales,READ,main,airline/Bug.java:38]
+	ReadWriteNode[1171,airline.Bug@15e,StopSales,WRITE,Thread-20,airline/Bug.java:62]
+}
+success count: 5
+fail count: 2, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[365,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-2,airline/Bug.java:60]
+	ReadWriteNode[402,airline.Bug,Num_Of_Seats_Sold,READ,Thread-3,airline/Bug.java:60]
+}
+success count: 1777
+fail count: 94, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[246,airline.Bug,Num_Of_Seats_Sold,WRITE,main,airline/Bug.java:14]
+	ReadWriteNode[365,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-2,airline/Bug.java:60]
+}
+success count: 95
+fail count: 5, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[1133,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-18,airline/Bug.java:60]
+	ReadWriteNode[1151,airline.Bug,Num_Of_Seats_Sold,READ,main,airline/Bug.java:51]
+}
+success count: 95
+fail count: 5, Pattern {
+	PatternType[PatternTypeNode[x,1,READ] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[368,airline.Bug,Num_Of_Seats_Sold,READ,Thread-2,airline/Bug.java:61]
+	ReadWriteNode[409,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-3,airline/Bug.java:60]
+}
+success count: 1775
+fail count: 93, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[1154,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-19,airline/Bug.java:60]
+	ReadWriteNode[1160,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-20,airline/Bug.java:60]
+}
+success count: 1805
+fail count: 93, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[253,airline.Bug@15e,Maximum_Capacity,WRITE,main,airline/Bug.java:25]
+	ReadWriteNode[831,airline.Bug@15e,Maximum_Capacity,READ,Thread-12,airline/Bug.java:61]
+}
+success count: 1900
+fail count: 92, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[246,airline.Bug,Num_Of_Seats_Sold,WRITE,main,airline/Bug.java:14]
+	ReadWriteNode[329,airline.Bug,Num_Of_Seats_Sold,READ,Thread-2,airline/Bug.java:60]
+}
+success count: 123
+fail count: 5, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,READ] ]
+	matched: true
+	ReadWriteNode[565,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-7,airline/Bug.java:60]
+	ReadWriteNode[568,airline.Bug,Num_Of_Seats_Sold,READ,Thread-6,airline/Bug.java:61]
+}
+success count: 574
+fail count: 22, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,WRITE] PatternTypeNode[x,1,READ] ]
+	matched: true
+	ReadWriteNode[1048,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-15,airline/Bug.java:60]
+	ReadWriteNode[1051,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-17,airline/Bug.java:60]
+	ReadWriteNode[1098,airline.Bug,Num_Of_Seats_Sold,READ,Thread-15,airline/Bug.java:61]
+}
+success count: 433
+fail count: 13, Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,WRITE] PatternTypeNode[x,1,WRITE] ]
+	matched: true
+	ReadWriteNode[456,airline.Bug,Num_Of_Seats_Sold,READ,Thread-5,airline/Bug.java:60]
+	ReadWriteNode[508,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-1,airline/Bug.java:60]
+	ReadWriteNode[511,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-5,airline/Bug.java:60]
+}
+success count: 420
+fail count: 10, Pattern {
+	PatternType[PatternTypeNode[x,1,READ] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[726,airline.Bug,Num_Of_Seats_Sold,READ,Thread-9,airline/Bug.java:60]
+	ReadWriteNode[775,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-11,airline/Bug.java:60]
+}
+success count: 576
+fail count: 13, Pattern {
+	PatternType[PatternTypeNode[x,1,READ] PatternTypeNode[x,2,WRITE] ]
+	matched: true
+	ReadWriteNode[1151,airline.Bug,Num_Of_Seats_Sold,READ,main,airline/Bug.java:51]
+	ReadWriteNode[1154,airline.Bug,Num_Of_Seats_Sold,WRITE,Thread-19,airline/Bug.java:60]
+}
+success count: 71
+fail count: 0]
+time for getting pattern list : 8089

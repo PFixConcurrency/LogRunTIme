@@ -1,0 +1,57 @@
+Fix one
+Added Semaphore
+The location of semaphore defines : 5
+The location of semaphore use : 14
+result : fix fail
+Fix two
+aim at : ReadWriteNode[609,datarace.Checker@1ce,buggy,WRITE,main,datarace/Checker.java:10]Lock start and stop position : 10->28
+Lock Name : this
+aim at : ReadWriteNode[642,datarace.Checker@1ce,buggy,WRITE,Thread-7,datarace/Checker.java:15]Lock start and stop position : 15->15
+result : fix fail
+Fix one
+Added Semaphore
+The location of semaphore defines : 10
+The location of semaphore use : 15
+result : fix fail
+Fix one
+Added Semaphore
+The location of semaphore defines : 9
+The location of semaphore use : 14
+result : fix fail
+Fix one
+Added Semaphore
+The location of semaphore defines : 15
+The location of semaphore use : 28
+result : fix fail
+Fix one
+Added Semaphore
+The location of semaphore defines : 15
+The location of semaphore use : 33
+result : fix fail
+Fix two
+aim at : ReadWriteNode[457,datarace.Account@163,balance,WRITE,Thread-2,datarace/Account.java:12]Lock start and stop position : 10->745
+Lock Name : this
+aim at : ReadWriteNode[463,datarace.Account@163,balance,WRITE,Thread-1,datarace/Account.java:12]Lock start and stop position : 12->12
+result : fix fail
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Fix one
+Add synchronization
+Lock Name : this
+Locked position : 12->13
+result : fix fail
+Fix one
+Add synchronization
+Lock Name : this
+Lock Name : this
+Locked position29
+result : fix fail
+Fix one
+Add synchronization
+Lock Name : this
+Lock Name : this
+Locked position26
+result : fix success
+time for fixing:48171

@@ -1,0 +1,13 @@
+Fix one
+Added Semaphore
+The location of semaphore defines : 38
+The location of semaphore use : 62
+result : fix fail
+Fix two
+Fix three
+Locked position : 32->66
+result : fix fail
+Fix three
+Locked position : 60->66
+result : fix success
+time for fixing:25429
