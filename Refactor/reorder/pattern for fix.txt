@@ -1,0 +1,10 @@
+Pattern {
+	PatternType[PatternTypeNode[x,1,WRITE] PatternTypeNode[x,2,WRITE] PatternTypeNode[y,2,WRITE] PatternTypeNode[y,1,WRITE] ]
+	matched: true
+	ReadWriteNode[431,reorder.SetCheck2@163,a,WRITE,Thread-1,reorder/SetCheck2.java:15]
+	ReadWriteNode[438,reorder.SetCheck2@163,a,WRITE,Thread-4,reorder/SetCheck2.java:15]
+	ReadWriteNode[454,reorder.SetCheck2@163,b,WRITE,Thread-4,reorder/SetCheck2.java:19]
+	ReadWriteNode[463,reorder.SetCheck2@163,b,WRITE,Thread-1,reorder/SetCheck2.java:19]
+}
+success count: 15
+fail count: 30
