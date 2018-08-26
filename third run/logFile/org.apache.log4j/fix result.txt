@@ -1,0 +1,16 @@
+Fix three
+aim at : ReadWriteNode[1000,org.apache.log4j.spi.LoggingEvent@1de,renderedMessage,READ,Thread-1,org/apache/log4j/spi/LoggingEvent.java:354]Lock start and stop position : 36->53
+Fix three
+Fix three
+Fix three
+Fix three
+Fix three
+Fix three
+Fix three
+Fix three
+Fix one
+Add synchronization
+Lock Name : this
+Locked position : 71->93
+result : fix success
+time for fixing:120880

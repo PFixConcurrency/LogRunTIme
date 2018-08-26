@@ -1,0 +1,12 @@
+Fix three
+Locked position : 32->66
+result : fix fail
+Fix one
+Add synchronization
+Lock Name : this
+Locked position : 61->63
+result : fix fail
+Fix three
+Locked position : 60->66
+result : fix success
+time for fixing:30283
